@@ -1,0 +1,48 @@
+button {
+  margin: 0;
+}
+
+.card-body {
+    min-height: 240px;
+}
+
+.card-footer {
+    background-color:rgba(176, 48, 48, 0.95);
+    padding: 0;
+}
+
+.btn-link {
+    color: #e1e8f0;
+    font-weight: bold;
+    padding: .75rem 1.25rem;
+    width: 100%;
+    display: inline-block;
+}
+
+.btn-link-new {
+    background-color:#28a745;
+    color: #e1e8f0;
+    font-weight: bold;
+    padding: .75rem 1.25rem;
+    width: 100%;
+    display: inline-block;
+}
+
+.btn-link-new:hover {
+    
+}
+
+.btn-link:hover {
+  color: #e1e8f0;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#btnRetry:hover {
+    background-color: #0d6c23;
+    color: #e1e8f0;
+}
+
+#btnClear:hover {
+    background-color:rgba(142, 15, 15, 0.95);
+}
